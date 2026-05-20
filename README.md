@@ -3,6 +3,9 @@
 **Genesis物理エンジン上で動くサバンナ生態系シミュレーター。**  
 強化学習 (REINFORCE) × 進化的アルゴリズム (DNA進化) を組み合わせ、動物たちが世代を重ねるごとに生き残る術を学んでいく様子を3Dビジュアルで観察できます。
 
+
+[![](https://img.youtube.com/vi/gIsO6bSz6hk/0.jpg)](https://youtu.be/gIsO6bSz6hk?si=Vhba91YJyOdEeEee)
+
 ---
 
 ## 📺 概要
